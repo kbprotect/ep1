@@ -1,0 +1,135 @@
+<html>
+
+<head>
+    <style>
+        h1{text-align: center;
+        color: grey;
+        font-family: sans-serif  ;}
+       
+        h2{ text-align: center;}
+        ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+     background-color: #90EE90;
+    
+    
+}
+        aside{
+            float:right;
+            width: 60%;
+        }
+        html{ background-color: ghostwhite}
+
+        boxed {
+            
+        }
+        li {
+    display: inline;
+}
+    }
+        ul2 {
+          list-style-type: disc;
+          margin: 0;
+          padding: 0;
+          
+         }
+      li2 {
+          display: list-item;
+          list-style: disc;
+        }
+        
+           }
+        ul3 {
+          list-style-type: disc;
+          margin: 0;
+          padding: 0;
+          text-align: center;
+        
+      }
+      li3 {
+          display: list-item;}
+     
+        
+        div1{
+            
+    padding: 10px;
+    background-color:  ghostwhite;
+    border: 3px solid white;
+    margin: 0;
+    height: auto
+        
+        }
+        
+        
+    </style>
+    
+    </head> 
+    <div style="width:100%;"> 
+<h1>KB Executive Protection & Investigation Group</h1>
+<h2>Services</h2>
+    
+    <ul>
+  <li><a href="farantesaboutus.html"> About us</a></li>
+  <li><a href="farantesservices.html"> Services</a></li>
+  <li><a href="farantescontactus.html"> Contact Us</a></li>
+  <li><a href="farantes.html">Back to Home</a></li>
+</ul> 
+        
+        <div style="float:right; width:60%;">
+        
+        <body>
+            
+            <p>KB Executive Protection & Investigation, Inc is a full protection agency. We are not a security guard company. We are a company which specializes in providing real world Executive Security solutions for our clients to enure their safety and peace of mind. </p>
+        
+            <p> We are former federal,law enforcement, and executive protection agents who have provided protection services for U.S Presidents, foreign dignitaries, heads of state, private individuals and their famalies. </p> 
+            
+            <p>When it comes to your safety...you deserve <b>NOTHING BUT THE BEST.</b></p>
+            
+            
+            <img src="newpicfarantes.jpg"> <br>
+            
+            <ul2>
+    <b><li2>Corporate & School Security Safety Solutions</li2></b>
+        <b><li2>Domestic & International Executive Protection</li2></b>
+        <b><li2>Executive Security Consulting</li2></b>
+        <b><li2>Threat Assessments</li2></b>
+        <b><li2>Background Investigations</li2></b>
+        <b><li2>Criminal and Civil Investigations</li2></b>
+        <b><li2>Insurance Investigations</li2></b>
+        <b><li2>...and more</li2></b>
+  </ul2>
+                 </body>
+        
+</div>
+
+
+
+<div1 style="float:left; width:37%;">
+    
+       
+        <body>
+            <p align="center"> <img src="farantesexecutivebodyguard.jpg" height="200p.x" width="200p.x"> </p>
+            <p align="center"><font size= “6”><b>Our Gurantee</b></font><p> 
+    
+    <ul3>
+        <p align="center"><b>Confidentiality</b></p>
+        <p align="center"><b>Dedication</b></p> 
+        <p align="center"><b>Integrity</b></p> 
+        <p align="center"><b>Trustworthiness</b></p> 
+        <p align="center"><b>Contact Us Now!:</b></p> 
+        <p align="center"><b>974-755-9447</b></p>
+    </ul3>
+    
+    
+    
+</body>
+            </div1>
+
+
+
+
+
+
+</html>
