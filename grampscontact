@@ -1,0 +1,158 @@
+<html>
+
+<head>
+    <style>  
+        
+        h1 {
+    text-align: center;
+   color: grey;
+    font-family: sans-serif;}
+       
+        h2{text-align: center;}
+    
+        ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+            background-color: #90EE90;}
+           
+        html {background-color: ghostwhite;}
+
+li {
+    display: inline;
+}
+        li2{
+            list-style: disc 
+                
+        }
+        ul3 {
+          list-style-type: disc;
+          margin: 0;
+          padding: 0;
+          text-align: center;
+          border-style: groove;
+        
+      }
+      li3 {
+          display: list-item; 
+          
+            
+      }
+        ul2 {  list-style-type: none;
+            margin: 0;
+            padding: 0;
+            
+            
+         }
+        
+        
+        li2 {
+            list-style:none;
+            display: list-item;
+        
+            
+        }
+    
+    </style>
+    </head>
+
+
+<div style="width:100%;"> 
+<h1>KB Executive Protection & Investigation Group</h1>
+    <h2>Contact Us</h2>
+
+    
+    <ul>
+  <li><a href="farantesaboutus.html"> About us</a></li>
+  <li><a href="farantesservices.html"> Services</a></li>
+  <li><a href="farantescontactus.html"> Contact Us</a></li>
+  <li><a href="farantes.html">Back to Home</a></li>
+</ul>
+    
+    
+    
+    
+    
+    <div style="float:left; width:40%;">
+
+ 
+
+
+        <p align="center"><img src="farantesexecutivebodyguard.jpg" height="250px" width="250px"></p>
+   
+    
+    <p align="center"><font size= “5”><b>Our Gurantee</b><p> 
+
+
+    
+    <body> <ul3>
+<li3>Confidentiality</li3> <br>
+  <li3>Dedication</li3> <br>
+  <li3>Integrity</li3> <br>
+  <li3>Trustworthiness</li3> <br>
+    </ul3> </body>
+
+
+</div>
+<div style="float:right; width:30%; ">
+    <font size="2">*Required Field</font>
+ <br>
+ <div class="row">
+		<label for="Your Name">*Your Name:</label><br />
+		<input id="Your Name" class="input" name="Your Name" type="text" value="" size="30" /><br />
+	</div> 
+    
+    <div class="row">
+    <label for="Email">*Email:</label><br /> 
+        <input id="Email" class="input" name="Email" type="text" value="" size="30" /><br />
+    </div>
+            
+            
+            <div class="row">
+            <label for="company">Company:</label><br />
+                <input id="company" class="input" name="company" type="text" value="" size="30" /><br />
+            </div>
+            
+            <div class="row">
+            <label for="Job Title">Job Title:</label><br />
+            <input id="Job Title" class="input" name="company" type="text" vaue"" size="30" /><br /></div>
+            
+            <div class="row">
+            <label for="subject">Subject:</label><br />
+                <input id="subject" class="input" name="subject" type="text" vaue="" size="30" /><br />
+            </div>
+            
+            
+	<div class="row">
+		<label for="message">Questions, Comments, or Feedback:</label><br />
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+	</div>
+            
+            
+            <input id="submit_button" type="submit" value="Send email" /> 
+        </form>
+
+ 
+
+
+
+</div>
+  
+<body style= “float: center; width:30%;”> 
+    <h2><font color="maroon">Address</font></h2>
+       <ul2>      
+  <li2>KB Executive Protection & Investigation Group</li2> <br>
+  <li2>P.O Box 9527</li2> <br>
+  <li2>Coral Springs, Florida 33075</li2> <br>
+<li2> Phone:954-755-9447</li2> <br>
+<li2> Cellphone:954-635-8640</li2> <br>
+<li2>Email: info@kbinvestigativeservices.com<li2> <br>
+ <li2>Agency License Number</li2> 
+<li2><b>A: 26002725</b></li2> 
+<li2>Licensed in Florida</li2> 
+    
+    </ul2> </body>
+
+
+</html>
